@@ -1,0 +1,10 @@
+.lead {
+  max-width: 984px;
+  min-height: 1005px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin: 56px auto 0;
+  color: #fff;
+}
