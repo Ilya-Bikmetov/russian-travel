@@ -1,6 +1,14 @@
 .header__logo {
   max-width: 176px;
   min-height: 52px;
-  background-image: url("../../../images/__logo.svg")
+  color: white;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
 
+@media (max-width: 767px) {
+  .header__logo {
+    max-width: 146px;
+    min-height: 42px;
+  }
 }
