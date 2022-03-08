@@ -1,0 +1,13 @@
+.place {
+  display: grid;
+  margin-top: 80px;
+  column-gap: 40px;
+  row-gap: 48px;
+  grid-template-areas:
+  "header url"
+  "img par";
+}
+
+.place:first-child {
+  margin-top: 0;
+}

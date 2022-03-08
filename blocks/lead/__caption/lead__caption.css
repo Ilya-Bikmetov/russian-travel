@@ -8,4 +8,5 @@ text-transform: uppercase;
 text-align: start;
 align-self: flex-start;
 margin-top: 8px;
+margin-bottom: 0;
 }
