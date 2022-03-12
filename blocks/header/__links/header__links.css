@@ -6,3 +6,9 @@
   list-style-type: none;
   gap: 18px;
 }
+
+@media (max-width: 751px) {
+  .header__links {
+    padding: 14px 0 8px;
+  }
+}

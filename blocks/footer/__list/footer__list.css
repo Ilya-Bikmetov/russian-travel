@@ -5,3 +5,11 @@
   padding: 0;
   list-style-type: none;
 }
+
+@media (max-width: 751px) {
+  .footer__list {
+    flex-direction: column;
+    gap: 32px;
+
+  }
+}

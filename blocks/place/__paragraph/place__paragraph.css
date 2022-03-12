@@ -11,3 +11,21 @@
 .place__paragraph:first-child {
   margin-top: 0;
 }
+
+@media (max-width: 751px) {
+  .place__paragraph {
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  .place__paragraph {
+    max-width: 352px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  .place__paragraph {
+    font-size: 16px;
+  }
+}

@@ -7,3 +7,9 @@
   letter-spacing: 2px;
   margin: 0 0 10px 0;
 }
+
+@media (max-width: 751px) {
+  .place__url-heading {
+    margin: 0 0 12px 0;
+  }
+}

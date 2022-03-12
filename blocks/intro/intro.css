@@ -2,3 +2,21 @@
   padding: 99px 442px 92px 148px;
   color: #fff;
 }
+
+@media (max-width: 751px) {
+  .intro {
+    padding: 69px 16px 64px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+  .intro {
+    padding: 94px 24px 88px;
+  }
+}
+
+@media (min-width: 1024px) and (max-width: 1279px) {
+  .intro {
+    padding: 100px 286px 91px 48px;
+  }
+}

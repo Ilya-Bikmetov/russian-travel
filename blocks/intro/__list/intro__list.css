@@ -7,3 +7,9 @@
   list-style-type: none;
   padding: 0;
 }
+
+@media (max-width: 751px) {
+  .intro__list {
+    margin: 36px 0 0 0;
+  }
+}
