@@ -1,27 +1,19 @@
 .lead {
   max-width: 984px;
   text-align: center;
-  padding: 56px 148px 0;
+  padding-top: 56px;
+  margin: 0 auto;
   color: #fff;
 }
 
-@media (max-width: 751px) {
+@media (max-width: 340px) {
   .lead {
-    padding: 48px 0 0;
+    padding-top: 48px;
   }
 }
 
-@media (min-width: 768px) and (max-width: 1023px) {
+@media (min-width: 341px) and (max-width: 1279px) {
   .lead {
-    padding: 52px 0 0;
-
+    padding-top: 50px;
   }
 }
-
-@media (min-width: 1024px) and (max-width: 1279px) {
-  .lead {
-    padding: 52px 49px 0;
-
-  }
-}
-

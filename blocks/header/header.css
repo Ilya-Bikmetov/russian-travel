@@ -4,14 +4,14 @@
   padding: 28px 48px 0;
 }
 
-@media (max-width: 751px) {
+@media (max-width: 340px) {
   .header {
     max-width: 288px;
     padding: 16px 16px 0;
   }
 }
 
-@media (min-width: 768px) and (max-width: 1023px) {
+@media (min-width: 734px) and (max-width: 1023px) {
   .header {
     padding: 28px 24px 0;
   }

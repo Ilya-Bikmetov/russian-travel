@@ -8,15 +8,14 @@
 
 @media (max-width: 751px) {
   .footer {
-    max-width: 186px;
+    /* max-width: 186px; */
     padding: 64px 140px 24px 16px;
     display: block;
   }
 }
 
-@media (min-width: 768px) and (max-width: 1023px) {
+@media (min-width: 734px) and (max-width: 1023px) {
   .footer {
-    max-width: 768px;
     padding: 88px 24px 24px;
   }
 }
