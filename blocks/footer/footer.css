@@ -8,7 +8,6 @@
 
 @media (max-width: 751px) {
   .footer {
-    /* max-width: 186px; */
     padding: 64px 140px 24px 16px;
     display: block;
   }

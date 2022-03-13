@@ -12,13 +12,13 @@
   text-align: center;
   align-items: center;
   position: relative;
-
 }
 
 .cover::before {
   content: "";
   position: absolute;
   background-color: #2A2C2F;
+  transition: opacity .3s ease-in-out;
   opacity: 0.3;
   top: 0;
   left: 0;
