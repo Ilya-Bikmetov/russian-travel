@@ -6,6 +6,12 @@
   background-size: contain;
 }
 
+.header__logo:hover {
+  transform: scale(1.2);
+  opacity: 0.8;
+  transition: all .5s ease-in-out;
+}
+
 @media (max-width: 751px) {
   .header__logo {
     width: 142px;

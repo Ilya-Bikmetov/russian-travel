@@ -1,5 +1,5 @@
 .intro__list {
-  margin: 33px 0 0 0;
+  margin: 31px 0 0 0;
   font-style: normal;
   font-weight: bold;
   font-size: 12px;
@@ -8,8 +8,8 @@
   padding: 0;
 }
 
-@media (max-width: 751px) {
+@media (max-width: 768px) {
   .intro__list {
-    margin: 36px 0 0 0;
+    margin: 34px 0 0 0;
   }
 }

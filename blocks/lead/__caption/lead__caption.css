@@ -2,30 +2,22 @@
   font-style: normal;
   font-weight: normal;
   font-size: 10px;
-  line-height: 0.14;
+  line-height: 1.4;
   letter-spacing: 1.5px;
   text-transform: uppercase;
   text-align: start;
-  margin-top: 12px;
+  margin-top: 8px;
   margin-bottom: 0;
 }
 
-@media (max-width: 751px) {
+@media (max-width: 733px) {
   .lead__caption {
-    margin-top: 14px;
     margin-left: 16px;
   }
 }
 
 @media (min-width: 734px) and (max-width: 1023px) {
   .lead__caption {
-    margin-top: 14px;
     margin-left: 24px;
-  }
-}
-
-@media (min-width: 1024px) and (max-width: 1082px) {
-  .lead__caption {
-    margin-top: 14px;
   }
 }

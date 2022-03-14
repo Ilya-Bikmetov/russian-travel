@@ -1,31 +1,7 @@
 .lead__image {
   width: 100%;
   max-width: 984px;
-  background: url("../../../images/lead__image.jpg");
-  background-size: contain;
-  background-position: center;
-  background-repeat: no-repeat;
-  padding-bottom: 63%;
-}
-
- @media (max-width: 340px) {
-  .lead__image {
-  max-width: 320px;
-  margin: 40px auto 0;
-  }
-}
-
-@media (min-width: 341px) and (max-width: 1023px) {
-  .lead__image {
-    max-width: 768px;
-    margin: 54px auto 0;
-  }
-}
-
- @media (min-width: 1024px) and (max-width: 1082px) {
-  .lead__image {
-    max-width: 928px;
-    margin: 53px auto 0;
-  }
+  object-fit: contain;
+  margin: 0 auto 0;
 }
 
