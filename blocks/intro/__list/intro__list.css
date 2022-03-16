@@ -8,7 +8,14 @@
   padding: 0;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 340px) {
+  .intro__list {
+    margin: 36px 0 0 0;
+  }
+}
+
+
+@media (min-width: 341px) and (max-width: 768px) {
   .intro__list {
     margin: 34px 0 0 0;
   }

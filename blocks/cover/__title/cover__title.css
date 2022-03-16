@@ -6,14 +6,8 @@
   line-height: 1.06;
   position: relative;
   color: #fff;
-  text-decoration: none;
+  margin: 0;
 }
-
-.cover__title:hover {
-  opacity: .8;
-  transition: opacity .3s ease-in-out;
-}
-
 
 @media (max-width: 599px) {
   .cover__title {
