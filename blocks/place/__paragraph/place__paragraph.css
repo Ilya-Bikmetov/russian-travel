@@ -6,6 +6,7 @@
   line-height: 1.61;
   grid-area: par;
   margin-top: 26px;
+  margin-bottom: 0;
 }
 
 .place__paragraph:first-child {
@@ -16,7 +17,6 @@
   .place__paragraph {
     font-size: 16px;
     line-height: 1.63;
-    margin-bottom: 0;
   }
 }
 
