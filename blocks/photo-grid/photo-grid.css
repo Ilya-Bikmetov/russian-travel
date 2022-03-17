@@ -7,15 +7,7 @@
   list-style-type: none;
 }
 
-@media (max-width: 340px) {
-  .photo-grid {
-    padding: 0 16px 0;
-    gap: 11px;
-  }
-}
-
-
-@media (min-width: 341px) and (max-width: 751px) {
+@media (max-width: 751px) {
   .photo-grid {
     padding: 0 16px 0;
     gap: 12px;
